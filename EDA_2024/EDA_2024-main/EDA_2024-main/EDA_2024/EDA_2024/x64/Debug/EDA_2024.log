@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\flavi\Desktop\EDA_2024-main\EDA_2024-main\EDA_2024\EDA_2024\main.c(312,37): warning C4020: 'addColumn': too many actual parameters
+C:\Users\flavi\Desktop\EDA_2024-main\EDA_2024-main\EDA_2024\EDA_2024\main.c(334,67): warning C4133: 'function': incompatible types - from 'Node **' to 'int **'
+  EDA_2024.vcxproj -> C:\Users\flavi\Desktop\EDA_2024-main\EDA_2024-main\EDA_2024\x64\Debug\EDA_2024.exe
